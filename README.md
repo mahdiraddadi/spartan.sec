@@ -13,3 +13,4 @@ Technologies:
 - Angular JS
 - Bootstrap
 - ThymLeaf
+- Maven
