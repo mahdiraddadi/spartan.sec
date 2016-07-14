@@ -6,6 +6,7 @@ Technologies:
 - Spring Boot
 - Spring MVC
 - RESTful
+- Spring Security
 - Spring Data JPA
 - Hibernate
 - Mysql 
